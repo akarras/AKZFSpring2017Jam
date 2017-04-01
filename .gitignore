@@ -71,3 +71,4 @@ DerivedDataCache/*
 
 #Ignore these things
 *.blend1
+*.1
